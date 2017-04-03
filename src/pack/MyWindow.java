@@ -70,10 +70,10 @@ public class MyWindow extends JFrame {
 //                connectKlymba.getDriver().findElement(By.xpath(".//*[@id='kl-nav-user']/ul/li[3]/a/span")).click();
 //                connectKlymba.getDriver().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 //                connectKlymba.getDriver().findElement(By.xpath(".//*[@id='kl-login-form']/div[3]/input"))
-//                                            .sendKeys("kremenecka1966@rambler.ru");
+//                                            .sendKeys("****email****");
 //                connectKlymba.getDriver().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 //                connectKlymba.getDriver().findElement(By.xpath(".//*[@id='kl-login-form']/div[3]/div[1]/input"))
-//                                            .sendKeys("28041989");
+//                                            .sendKeys("****password****");
 //                connectKlymba.getDriver().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 //                connectKlymba.getDriver().findElement(By.xpath(".//*[@id='kl-login-form']/div[3]/button")).click();
 //                connectKlymba.getDriver().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
